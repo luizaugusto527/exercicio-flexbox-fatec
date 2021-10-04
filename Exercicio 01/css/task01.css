@@ -12,8 +12,10 @@ body{
     align-items: center;
     
 }
-.paginacao{
+h1{
     margin-top: 80px;
+}
+.paginacao{
     margin-bottom: 10px;
     width: 800px;
     height: 30px;
